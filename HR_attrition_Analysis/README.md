@@ -1,19 +1,29 @@
 📊 HR Analysis Dashboard
+
 📌 Overview
 
 The HR Analysis Dashboard is an interactive data visualization project designed to analyze employee data, salary distribution, hiring trends, and workforce demographics. It provides meaningful insights to support HR decision-making and workforce planning.
 
+
+
 🚀 Features
+
+
 📈 Salary Insights
 Max Salary: 200K
 Min Salary: 40K
+
 Salary gap comparison by gender
 👥 Employee Demographics
+
 Gender distribution
 Age group analysis
+
 Weight category distribution
+
 🌍 Geographical Analysis
 Employee count by country
+
 Average salary by county (map + bar chart)
 📅 Hiring Trends
 Year-wise joining trend
@@ -21,11 +31,14 @@ Month-wise employee onboarding
 🎯 Experience Analysis
 Salary comparison based on experience levels
 Seniority level distribution (Junior vs Senior)
+
 🎛️ Interactive Filters
 Salary Band
 Experience Range
 Age Group
 Location (County)
+
+
 🛠️ Tools & Technologies
 📊 Power BI – Data visualization and dashboard creation
 📂 Dataset – HR dataset (employee, salary, demographics)
@@ -47,6 +60,8 @@ HR-Analysis-Dashboard/
 │── dashboard.pbix
 │── images/
 │── README.md
+
+
 ▶️ How to Use
 Download the .pbix file
 Open in Power BI Desktop
