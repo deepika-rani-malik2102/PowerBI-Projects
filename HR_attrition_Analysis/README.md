@@ -12,22 +12,21 @@ The HR Analysis Dashboard is an interactive data visualization project designed 
 📈 Salary Insights
 Max Salary: 200K
 Min Salary: 40K
-
 Salary gap comparison by gender
-👥 Employee Demographics
 
+👥 Employee Demographics
 Gender distribution
 Age group analysis
-
 Weight category distribution
 
 🌍 Geographical Analysis
 Employee count by country
-
 Average salary by county (map + bar chart)
+
 📅 Hiring Trends
 Year-wise joining trend
 Month-wise employee onboarding
+
 🎯 Experience Analysis
 Salary comparison based on experience levels
 Seniority level distribution (Junior vs Senior)
@@ -50,10 +49,15 @@ Location (County)
 
 📊 Key Insights
 Salary distribution varies significantly across experience levels
+
 Gender salary gap is minimal but visible
+
 Most employees fall under mid-level experience
+
 Hiring trends show steady growth over the years
+
 Certain counties have higher average salaries
+
 📁 Project Structure
 HR-Analysis-Dashboard/
 │── dataset/
